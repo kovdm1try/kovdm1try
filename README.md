@@ -43,8 +43,9 @@
     <img height="40" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img height="40" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
     <img height="40" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    <img height="40" src="https://img.shields.io/badge/WebStorm-0078D4?style=for-the-badge&logo=webstorm&logoColor=white" alt="VS Code"/>
-    <img height="40" src="https://img.shields.io/badge/PyCharm-green?style=for-the-badge&logo=pycharm&logoColor=white" alt="VS Code"/>
+    <img height="40" src="https://img.shields.io/badge/WebStorm-0078D4?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/>
+    <img height="40" src="https://img.shields.io/badge/PyCharm-green?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+    <img height="40" src="https://img.shields.io/badge/Docker-darkblue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   </div>
   
   <h3>📊 GitHub Stats</h3>

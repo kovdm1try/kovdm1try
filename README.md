@@ -35,12 +35,14 @@
     <img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
     <img height="40" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
     <img height="40" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+    <img height="40" src="https://img.shields.io/badge/Minista-pink?style=for-the-badge&logo=minista&logoColor=white" alt="Minista"/>
     <br>
     <!-- Backend -->
     <img height="40" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
     <img height="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <!-- Tools -->
     <img height="40" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img height="40" src="https://img.shields.io/badge/Axios-grey?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
     <img height="40" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
     <img height="40" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
     <img height="40" src="https://img.shields.io/badge/WebStorm-0078D4?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/>

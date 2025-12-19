@@ -55,6 +55,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovdm1try&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" height="165"/>
   </div>    
   
-  <h3>⚡ Recent Activity</h3>
-  <img src="https://streak-stats.demolab.com?user=kovdm1try&theme=tokyonight&hide_border=true&background=FFFFFF00" alt="GitHub Streak" height="165"/>
 </div>

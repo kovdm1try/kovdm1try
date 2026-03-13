@@ -7,9 +7,6 @@
     <a href="https://t.me/kovdm1try" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://vk.com/dath1s" target="_blank">
-      <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-    </a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=kovdm1try&style=flat-square&color=blue" alt="Profile views"/>

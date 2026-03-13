@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dmitry+Kovtunov&fontSize=50&fontAlignY=35&animation=fadeIn" />
   
   <div id="badges">
-    <a href="https://t.me/dath1s" target="_blank">
+    <a href="https://t.me/kovdm1try" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://vk.com/dath1s" target="_blank">

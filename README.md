@@ -11,12 +11,13 @@
 
   <img src="https://komarev.com/ghpvc/?username=kovdm1try&style=flat-square&color=blue" alt="Profile views"/>
 
-  <div align="center">
+ <div align="center">
     <h3>👨‍💻 About Me</h3>
     <p>
-      I'm a 4th-year <strong>Applied Mathematics and Computer Science</strong> student at <strong>Far Eastern Federal University (FEFU)</strong>.<br>
+      I am a <strong>Fullstack Engineer (Frontend-Heavy)</strong> currently pursuing an <strong>M.Sc. in Artificial Intelligence and Big Data</strong> at <strong>Far Eastern Federal University (FEFU)</strong>.<br>
+      Two-time ICPC Finalist and ML Patent Owner specializing in building high-performance, data-dense web interfaces and real-time streaming systems.
     </p>
-  </div>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
